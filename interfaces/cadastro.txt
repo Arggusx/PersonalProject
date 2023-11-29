@@ -1,0 +1,2 @@
+{"nome": "Esdras Tarsis", "idade": 21, "cpf": "50942979451", "cor_faixa": "Branca"}
+{"nome": "Jos\u00e9 Lucas", "idade": 20, "cpf": "30430307454", "cor_faixa": "Branca"}
